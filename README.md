@@ -1,7 +1,7 @@
 # SOFTWARE TESTER PORTFOLIO - JIDAPA DEETHONG
 [About Me](#about-me)
 [RESUME-CV](#RESUME-CV)
-[Tools & Skill ](#tools-&-skill)
+[Tools and Skills ](#tools-and-skills)
 [Examples of my work](#examples-of-my-work)
 [Courses and Certificates](#Courses-and-Certificates)
 
