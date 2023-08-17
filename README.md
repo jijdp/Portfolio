@@ -12,11 +12,11 @@ I’m open for all types: On-site / Hybrid / Remote +++ Full-time / Contract / I
 
 Languages I speak: English (Professional) / Thai (Native) / French (Low-intermediate)
 
-## RESUME/CV
+## RESUME-CV
 
 ## Tools & skill
 
-## Example of my work
+## Examples of my work
 
 ## Courses and Certificates
 
