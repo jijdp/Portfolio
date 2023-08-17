@@ -1,7 +1,7 @@
 # SOFTWARE TESTER PORTFOLIO - JIDAPA DEETHONG
 - [About Me](#about-me)
 - [RESUME-CV](#RESUME-CV)
-- [Tools and Skills ](#tools-and-skills)
+- [Skills and Tools ](#skills-and-tools)
 - [Examples of my work](#examples-of-my-work)
 - [Courses and Certificates](#Courses-and-Certificates)
 
@@ -14,7 +14,7 @@ Languages I speak: English (Professional) / Thai (Native) / French (Low-intermed
 
 ## RESUME-CV
 
-## Tools and Skills
+## Skills and Tools
 
 ## Examples of my work
 
