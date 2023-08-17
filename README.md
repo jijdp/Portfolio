@@ -17,6 +17,9 @@ Languages I speak: English (Professional) / Thai (Native) / French (Low-intermed
 ## Skills and Tools
 
 ## Examples of my work
+## **Test Case 01 - Writing test cases **
 
+ [Link to Excel with Test Case 01](https://1drv.ms/x/s!AgT1PaqGeGECgjT0N09vMdqe0hK6?e=3ffwST)
+ 
 ## Courses and Certificates
 
