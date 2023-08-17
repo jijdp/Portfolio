@@ -22,3 +22,7 @@ Languages I speak: English (Professional) / Thai (Native) / French (Low-intermed
  
 ## Courses and Certificates
 
+- Courses I have finished
+
+- Currently learning
+1) The Complete 2023 Software Testing Bootcamp (UDEMY)
