@@ -14,7 +14,7 @@ Languages I speak: English (Professional) / Thai (Native) / French (Low-intermed
 
 ## RESUME-CV
 
-## Tools & skill
+## Tools and Skills
 
 ## Examples of my work
 
