@@ -8,7 +8,6 @@
 ## About Me
 I'm a software tester who looking for an opportunity to work as a full-time/contract software tester. I have experience with manual testing/test cases/finding bugs and defects/using some relevant tools such as Zephyr and Jira. I have a basic knowledge of SQL and understand to work in agile/scrum. I’m also intrigued to learn about automated tests and any skills that enhance my ability.
 
-I’m open for all types: On-site / Hybrid / Remote +++ Full-time / Contract / Intern
 
 Languages I speak: English (Professional) / Thai (Native) / French (Low-intermediate)
 
