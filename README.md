@@ -17,7 +17,11 @@ Languages I speak: English (Professional) / Thai (Native) / French (Low-intermed
 ## Skills and Tools
 
 ## Examples of my work
-1) Writing test case with Excel
+-  
+-  Writing test case with Jira (Zephyr/ Company-managed project)
+-  Writing test case with Jira (Zephyr/ Team-managed project)
+-  Writing test case with Trello
+-  Writing test case with Excel
  [Link to Excel with Test Case 01](https://1drv.ms/x/s!AgT1PaqGeGECgjT0N09vMdqe0hK6?e=3ffwST)
  
 ## Courses and Certificates
