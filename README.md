@@ -17,7 +17,7 @@ Languages I speak: English (Professional) / Thai (Native) / French (Low-intermed
 
 ## Examples of my work
 -  
--  Writing test case with Jira (Zephyr/ Company-managed project)
+-  Writing test case/sprint-backlog/test report with Jira (Zephyr/ Company-managed project)
 -  Writing test case with Jira (Zephyr/ Team-managed project)
 -  Writing test case with Trello
 -  Writing test case with Excel
