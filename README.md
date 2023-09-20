@@ -16,9 +16,10 @@ Languages I speak: English (Professional) / Thai (Native) / French (Low-intermed
 ## Skills and Tools
 
 ## Examples of my work
--  
--  
--  API - Unit test and API project with Postman
+-  RobotFramework/Selenium project
+-  RobotFramework/Selenium basic 
+-  SQL/MySQL
+-  API - API project with Postman
 -  Writing test case/sprint-backlog/test report with Jira (Zephyr/ Company-managed project)
 -  Writing test case with Jira (Zephyr/ Team-managed project)
 -  Writing test case with Trello
