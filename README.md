@@ -23,7 +23,7 @@ Languages I speak: English (Professional) / Thai (Native) / French (Low-intermed
 -  Writing test case/sprint-backlog/test report with Jira (Zephyr/ Company-managed project)
 -  Writing test case with Jira (Zephyr/ Team-managed project)
 -  Writing test case with Trello
--  Writing test case with Excel
+-  Writing test case with Excel (Executed version)
  [Link to Excel with Test Case ](https://1drv.ms/x/s!AgT1PaqGeGECgjT0N09vMdqe0hK6?e=3ffwST)
  
 ## Courses and Certificates
