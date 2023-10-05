@@ -17,7 +17,7 @@ Languages I speak: English (Professional) / Thai (Native) / French (Low-intermed
 
 ## Examples of my work
 -  RobotFramework
--  RobotFramework with SeleniumLibrary with video record and screenshot 
+-  RobotFramework with SeleniumLibrary 
 -  SQL/MySQL [Example : SQL/MySQL](https://github.com/jijdp/portfolio-details/blob/main/sql1.md)
 -  API - API project with Postman 
 -  Writing test case/sprint-backlog/test report with Jira (Company-managed project)
