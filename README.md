@@ -19,7 +19,7 @@ Languages I speak: English (Professional) / Thai (Native) / French (Low-intermed
 -  Selenium
 -  RobotFramework 
 -  SQL/MySQL [Example : SQL/MySQL](https://github.com/jijdp/portfolio-details/blob/main/sql1.md)
--  API - API project with Postman 
+-  API - API project with Postman (In Progress) [Example : API/Postman](https://github.com/jijdp/portfolio-details/blob/main/API/PostmanExample.md)
 -  Writing test case/sprint-backlog/test report with Jira (Company-managed project) [Example : Jira/CompanyProject](https://github.com/jijdp/portfolio-details/blob/main/JiraCompany.md)
 -  Writing test case with Jira (Zephyr/ Team-managed project) [Example : Jira/TeamProject](https://github.com/jijdp/portfolio-details/blob/main/JiraTeam.md)
 -  Writing test case with Trello
