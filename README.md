@@ -31,8 +31,6 @@ Languages I speak: English (Professional) / Thai (Native) / French (Low-intermed
 ## Courses and Certificates
 
 - **Courses I have finished**
-  
-Certified
   -  "MySQL for Non-Programmers" by Martine Moses 
   -  “Understanding Manual Testing” by Mike Fine
 
