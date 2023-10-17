@@ -30,7 +30,10 @@ Languages I speak: English (Professional) / Thai (Native) / French (Low-intermed
  
 ## Courses and Certificates
 
-- Courses I have finished
+- **Courses I have finished**
+Certified
+  -  "MySQL for Non Programmer" by Martine Moses 
+  -  “Understanding Manual Testing” by Mike Fine
 
 - Currently learning
 1) The Complete 2023 Software Testing Bootcamp (UDEMY)
