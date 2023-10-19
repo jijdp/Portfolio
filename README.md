@@ -19,7 +19,7 @@ Languages I speak: English (Professional) / Thai (Native) / French (Low-intermed
 -  Selenium
 -  RobotFramework
 -  Selenium IDE
-- **API project with Postman
+- API project with Postman
   - [Example : API/Postman](https://github.com/jijdp/portfolio-details/blob/main/API/PostmanExample.md)
   - [Folder to JSON files](https://github.com/jijdp/portfolio-details/tree/main/API) 
 -  SQL/MySQL [Example : SQL/MySQL](https://github.com/jijdp/portfolio-details/blob/main/sql1.md)
