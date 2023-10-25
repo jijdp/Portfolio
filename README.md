@@ -17,7 +17,7 @@ Languages I speak: English (Professional) / Thai (Native) / French (Low-intermed
 
 ## Skills and Tools
 -  Automate test -- Selenium / Robot framework
--  Manual test and test activity -- test scenarios/test case/log defect/test report/test documentation/test executing/bug tracking/bug prioritization/exploratory testing/integration Testing
+-  Manual test and test activity -- test scenarios/test case/log defect/test report/test documentation/test executing/bug tracking/bug prioritization/exploratory testing/unit testing/integration Testing
 -  Management Tool -- Jira / Trello
 -  API -- Postman
 -  SQL -- MySQL 
