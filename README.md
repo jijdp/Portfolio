@@ -38,4 +38,4 @@ Languages I speak: English (Professional) / Thai (Native) / French (Low-intermed
   -  “Understanding Manual Testing” by Mike Fine
 
 - Currently learning
-1) The Complete 2023 Software Testing Bootcamp (UDEMY)
+  -  The Complete 2023 Software Testing Bootcamp (UDEMY)
