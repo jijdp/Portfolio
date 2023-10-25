@@ -6,7 +6,9 @@
 - [Courses and Certificates](#Courses-and-Certificates)
 
 ## About Me
-I'm a software tester who is looking for an opportunity to work in this role full-time. I have experience with manual testing and automated tests. I can write test cases, find bugs/defects and use management tools such as Jira and Trello . I can test API with Postman and test codeless with Selenium IDE. I have knowledge of SQL/MySQL and understand how to work in agile/scrum. I’m also intrigued to learn any skills that enhance my ability.
+I'm a software tester experienced in manual testing and automated tests. Knowledgeable in manual test activity, management tools, API testing, Robot and Selenium automating. I also have knowledge in SQL and agile/scrum. Intrigued to learn any skills that enhance my ability.
+
+Experience
 
 
 Languages I speak: English (Professional) / Thai (Native) / French (Low-intermediate)
@@ -14,7 +16,18 @@ Languages I speak: English (Professional) / Thai (Native) / French (Low-intermed
 ## RESUME-CV
 
 ## Skills and Tools
-
+-  Automate test -- Selenium / Robot framework
+-  Manual test and test activity -- test scenarios/test case/log defect/test report/test documentation/test executing/bug tracking/bug prioritization/exploratory testing/integration Testing
+-  Management Tool -- Jira / Trello
+-  API -- Postman
+-  SQL -- MySQL 
+-  Understand the working fundamental of Agile/Scrum
+Other tools
+- GitHub/Git -- to upload and download code
+- StackOverflow -- to discover and find solution to writing and implement code for automate test
+- Notion
+- Discord
+- MS Office
 ## Examples of my work
 -  Selenium
 - **RobotFramework**
