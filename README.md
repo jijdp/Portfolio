@@ -18,6 +18,7 @@ Languages I speak: English (Professional) / Thai (Native) / French (Low-intermed
 ## Examples of my work
 -  Selenium
 -  RobotFramework
+  - [Project](https://github.com/jijdp/robotframework/tree/main/robotproject1)
 -  Selenium IDE
 - API project with Postman
   - [Example : API/Postman](https://github.com/jijdp/portfolio-details/blob/main/API/PostmanExample.md)
