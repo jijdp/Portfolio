@@ -44,8 +44,7 @@ Other tools
 - [Jira/CompanyProject](https://github.com/jijdp/portfolio-details/blob/main/JiraCompany.md)
 - [Jira/TeamProject](https://github.com/jijdp/portfolio-details/blob/main/JiraTeam.md)
 - [Trello](https://github.com/jijdp/portfolio-details/blob/main/Trello.md)
--  Writing test case with Excel (Executed)
- [Link to Excel with Test Case ](https://1drv.ms/x/s!AgT1PaqGeGECgjT0N09vMdqe0hK6?e=3ffwST)
+- [Writing Test Cases with Excel ](https://1drv.ms/x/s!AgT1PaqGeGECgjT0N09vMdqe0hK6?e=3ffwST)
  
 ## Courses and Certificates
 
