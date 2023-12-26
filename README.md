@@ -36,14 +36,14 @@ Other tools
   - [Project](https://github.com/jijdp/robotframework/tree/main/robotproject1)
   - [Practice]
 -  Selenium
--  Selenium IDE [Selenium IDE](https://github.com/jijdp/portfolio-details/tree/main/SeleniumIDE)
+-  [Selenium IDE](https://github.com/jijdp/portfolio-details/tree/main/SeleniumIDE)
 - API project with Postman
   - [Example : API/Postman](https://github.com/jijdp/portfolio-details/blob/main/API/PostmanExample.md)
   - [Folder to JSON files](https://github.com/jijdp/portfolio-details/tree/main/API) 
--  SQL/MySQL [Example : SQL/MySQL](https://github.com/jijdp/portfolio-details/blob/main/sql1.md)
--  Writing test case/sprint-backlog/test report with Jira (Company-managed project) [Example : Jira/CompanyProject](https://github.com/jijdp/portfolio-details/blob/main/JiraCompany.md)
--  Writing test case with Jira (Zephyr/ Team-managed project) [Example : Jira/TeamProject](https://github.com/jijdp/portfolio-details/blob/main/JiraTeam.md)
--  Writing test case with Trello [Example : Trello](https://github.com/jijdp/portfolio-details/blob/main/Trello.md)
+- [SQL/MySQL](https://github.com/jijdp/portfolio-details/blob/main/sql1.md)
+- [Jira/CompanyProject](https://github.com/jijdp/portfolio-details/blob/main/JiraCompany.md)
+- [Jira/TeamProject](https://github.com/jijdp/portfolio-details/blob/main/JiraTeam.md)
+- [Trello](https://github.com/jijdp/portfolio-details/blob/main/Trello.md)
 -  Writing test case with Excel (Executed)
  [Link to Excel with Test Case ](https://1drv.ms/x/s!AgT1PaqGeGECgjT0N09vMdqe0hK6?e=3ffwST)
  
