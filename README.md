@@ -16,7 +16,7 @@ Languages I speak: English (Professional) / Thai (Native) / French (Low-intermed
 ## RESUME-CV
 
 ## Skills and Tools
--  Automate test -- Selenium / Robot framework
+-  Automate test -- Robot framework / Selenium
 -  Manual test
 -  STLC for junior tester-- write test plan/test scenarios/**test case**/log defect/**test documentation**/**test execution**/**defect tracking**/defect prioritization/test report
 -  exploratory testing
@@ -32,10 +32,10 @@ Other tools
 - Discord
 - MS Office
 ## Examples of my work
--  Selenium
 - **RobotFramework**
   - [Project](https://github.com/jijdp/robotframework/tree/main/robotproject1)
   - [Practice]
+-  Selenium
 -  Selenium IDE [Selenium IDE](https://github.com/jijdp/portfolio-details/tree/main/SeleniumIDE)
 - API project with Postman
   - [Example : API/Postman](https://github.com/jijdp/portfolio-details/blob/main/API/PostmanExample.md)
