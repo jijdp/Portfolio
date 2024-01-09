@@ -25,6 +25,7 @@ Languages I speak: English (Professional) / Thai (Native) / French (Low-intermed
 -  API -- Postman
 -  SQL -- MySQL 
 -  Understand the working fundamental of Agile/Scrum
+
 Other tools
 - GitHub/Git -- to upload and download code
 - StackOverflow -- to discover and find solution to writing and implement code for automate test
