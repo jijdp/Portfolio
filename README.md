@@ -8,32 +8,38 @@
 ## About Me
 I'm a software tester experienced in manual testing and automated tests. Knowledgeable in manual test activity, management tools, API testing, Robot and Selenium automating. I also have knowledge in SQL and agile/scrum. Intrigued to learn any skills that enhance my ability.
 
-Experience
 
 
 Languages I speak: English (Professional) / Thai (Native) / French (Low-intermediate)
 
 ## RESUME-CV
 
-## Skills and Tools
--  Automate test -- Robot framework / Selenium
+## Technical Skills 
+-  Automate test
 -  Manual test
 -  STLC for junior tester
   
    -- write test plan/test scenarios/**test case**/log defect/**test documentation**/**test execution**/**defect tracking**/defect prioritization/test report
 -  exploratory testing
 -  unit testing and integration Testing
--  Management Tool -- Jira / Trello
--  API -- Postman
--  SQL -- MySQL 
+-  API testing
+-  SQL for tester
 -  Understand the working fundamental of Agile/Scrum
-
+   
+## Tools / Frameworks
+- Robot framework 
+- Selenium (Python)
+- Postman 
+- MySQL
+- Jira 
+- Trello
 Other tools
 - GitHub/Git -- to upload and download code
 - StackOverflow -- to discover and find solution to writing and implement code for automate test
 - Notion
 - Discord
 - MS Office
+
 ## Examples of my work
 - **RobotFramework**
   - [Project](https://github.com/jijdp/robotframework/tree/main/robotproject1)
