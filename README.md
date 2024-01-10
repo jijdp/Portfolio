@@ -43,7 +43,7 @@ Other tools
 
 ## Examples of my work
 - **RobotFramework**
-  - [Project](https://github.com/jijdp/robotframework/tree/main/robotproject1)
+  - [Project]([https://github.com/jijdp/robotframework/tree/main/robotproject1](https://github.com/jijdp/robotframework/tree/main/robotproject1/robot_selenium_project1)
   - [Practice]
 -  [Selenium](https://github.com/jijdp/selenium/blob/main/main.py)
 -  [Selenium IDE](https://github.com/jijdp/portfolio-details/tree/main/SeleniumIDE)
