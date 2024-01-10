@@ -18,7 +18,8 @@ Languages I speak: English (Professional) / Thai (Native) / French (Low-intermed
 ## Skills and Tools
 -  Automate test -- Robot framework / Selenium
 -  Manual test
--  STLC for junior tester-- write test plan/test scenarios/**test case**/log defect/**test documentation**/**test execution**/**defect tracking**/defect prioritization/test report
+-  STLC for junior tester
+   -- write test plan/test scenarios/**test case**/log defect/**test documentation**/**test execution**/**defect tracking**/defect prioritization/test report
 -  exploratory testing
 -  unit testing and integration Testing
 -  Management Tool -- Jira / Trello
