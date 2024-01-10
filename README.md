@@ -33,6 +33,7 @@ Languages I speak: English (Professional) / Thai (Native) / French (Low-intermed
 - MySQL
 - Jira 
 - Trello
+
 Other tools
 - GitHub/Git -- to upload and download code
 - StackOverflow -- to discover and find solution to writing and implement code for automate test
