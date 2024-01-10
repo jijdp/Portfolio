@@ -36,7 +36,7 @@ Other tools
 - **RobotFramework**
   - [Project](https://github.com/jijdp/robotframework/tree/main/robotproject1)
   - [Practice]
--  Selenium
+-  [Selenium](https://github.com/jijdp/selenium/blob/main/main.py)
 -  [Selenium IDE](https://github.com/jijdp/portfolio-details/tree/main/SeleniumIDE)
 - API project with Postman
   - [Example : API/Postman](https://github.com/jijdp/portfolio-details/blob/main/API/PostmanExample.md)
