@@ -21,7 +21,7 @@ Languages I speak: English (Professional) / Thai (Native) / French (Low-intermed
   
    -- write test plan/test scenarios/**test case**/log defect/**test documentation**/**test execution**/**defect tracking**/defect prioritization/test report
 -  exploratory testing
--  unit testing and integration Testing
+-  integration Testing
 -  API testing
 -  SQL for tester
 -  Understand the working fundamental of Agile/Scrum
