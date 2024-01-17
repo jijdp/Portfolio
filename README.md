@@ -46,8 +46,8 @@ Other tools
   - [Practice2 DesktopApp](https://github.com/jijdp/RobotPractice2/tree/main/robot_practice_desktopapp)
   - [Practice1 Webtest](https://github.com/jijdp/RobotPractice1/tree/main/robot_practice_webtest)
 - **Selenium**
-  - [Selenium_Structure_practice](https://github.com/jijdp/selenium/blob/main/main.py) in progress
--  [SeleniumPython](https://github.com/jijdp/selenium/blob/main/main.py)
+  - [Selenium_Structure_practice](https://github.com/jijdp/sel_structure) in progress
+  - [SeleniumPython](https://github.com/jijdp/selenium/blob/main/main.py)
 -  [Selenium IDE](https://github.com/jijdp/portfolio-details/tree/main/SeleniumIDE)
 - API project with Postman
   - [Example : API/Postman](https://github.com/jijdp/portfolio-details/blob/main/API/PostmanExample.md)
