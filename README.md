@@ -34,6 +34,7 @@ Languages I speak: English (Professional) / Thai (Native) / French (Low-intermed
 - Trello
 
 Other tools
+- Slack
 - GitHub/Git -- to upload and download code
 - StackOverflow -- to discover and find solution to writing and implement code for automate test
 - Notion
