@@ -62,8 +62,9 @@ Other tools
 ## Courses and Certificates
 
 - **Courses I have finished**
+  -  The Complete 2023 Software Testing Bootcamp (UDEMY)
   -  "MySQL for Non-Programmers" by Martine Moses 
   -  “Understanding Manual Testing” by Mike Fine
 
 - Currently learning
-  -  The Complete 2023 Software Testing Bootcamp (UDEMY)
+
