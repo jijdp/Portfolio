@@ -24,13 +24,12 @@ Video Editor			 					MTS Gold	Nov 2024 - Present
 - Applied ChatGPT and AI tools to help crafting videos.
 
 Software Tester			 				Freelance/Project	May 2024 - Present
-- Performed manual test, exploratory test and UAT test following the scope on UTest platform
+- Performed manual test, exploratory test and UAT test (with TestFlight) following the scope on UTest platform and report the actioned performed, expected and actual result to the project lead
 - Identified detects, prioritized, tracked and reported detects with action performed, expected results, screenshots and video recording
 - Suggested and supported other testers on the project
-- Automated ecommerce website with RobotFramework and projects with Selenium/Pythons				     
+-Automated ecommerce website with RobotFramework and projects with Selenium/Pythons						     
 - Practiced finding bugs, tracking bugs, writing test scenarios, writing test cases, executing tests and reporting tests on Excel, Jira and Trello
-- Learned SQL commands, testing database on MySQL,API command and API testing on Postman
-
+- Learned SQL commands, testing database on MySQL, API command and API testing on Postman
 
 ## Technical Skills 
 -  Automate test
