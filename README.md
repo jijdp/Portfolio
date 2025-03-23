@@ -13,6 +13,24 @@ I'm a software tester experienced in manual testing and automated tests. Knowled
 Languages I speak: English (Professional) / Thai (Native) / French (Low-intermediate)
 
 ## RESUME-CV
+my experiences:
+Video Editor			 					MTS Gold	Nov 2024 - Present
+			 						      
+- Edited high quality videos focused on reels for TikTok, Instagram and Facebook platform. (Top views: over 2 millions views) focused on luxury, casual lifestyle and informative content for fashion and jewelry marketing content.
+- Experienced using CapCut, Canva, Premiere Pro and Photoshop to deliver content and adjust the content.
+- Acted as a lead character and performed a hands model to promote the advertisements.
+- Wrote and created captions in videos in both English and Thai to promote both Thai and national customers.
+- Applied color-grading, transition, subtitles, voice-over, motion and graphic decoration in the video and photo. 
+- Applied ChatGPT and AI tools to help crafting videos.
+
+Software Tester			 				Freelance/Project	May 2024 - Present
+- Performed manual test, exploratory test and UAT test following the scope on UTest platform
+- Identified detects, prioritized, tracked and reported detects with action performed, expected results, screenshots and video recording
+- Suggested and supported other testers on the project
+- Automated ecommerce website with RobotFramework and projects with Selenium/Pythons				     
+- Practiced finding bugs, tracking bugs, writing test scenarios, writing test cases, executing tests and reporting tests on Excel, Jira and Trello
+- Learned SQL commands, testing database on MySQL,API command and API testing on Postman
+
 
 ## Technical Skills 
 -  Automate test
@@ -42,6 +60,7 @@ Other tools
 - MS Office
 
 ## Examples of my work
+- (uTest- Freelance work) UAT Test () 
 - **RobotFramework**
   - [Project](https://github.com/jijdp/robotframework/tree/main/robotproject1/robot_selenium_project1)
   - [Practice2 DesktopApp](https://github.com/jijdp/RobotPractice2/tree/main/robot_practice_desktopapp)
