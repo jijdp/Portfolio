@@ -10,7 +10,7 @@ I'm a software tester experienced in manual testing and automated tests. Knowled
 
 
 
-Languages I speak: English (Professional) / Thai (Native) / French (Low-intermediate)
+Languages I speak: English (Professional) / Thai (Native)
 
 ## RESUME-CV
 my experiences:
